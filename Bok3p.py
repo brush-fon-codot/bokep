@@ -79,10 +79,10 @@ elif pilih == 3:
 	os.system('python2 coli.py')
 
 elif pilih == 4:
-        print(w+"[1].An brush fon")
-        print(g+"[2].Unknown")
+        print(w+"[1].unknown")
+        print(g+"[2].An brush fon")
         oh = input("Recode > ")
         if oh ==2:
-        	os.system("termux-open-url https://wa.me/+6289660267608?text=Bang%20Saya%20boleh%20recode%20Tools%20Bokepnya") 
+        	os.system("termux-open-url https://wa.me/+6289660267608") 
 	elif oh ==1:
-        	os.system("termux-open-url https://wa.me/+628637763566?text=Bang%20Saya%20boleh%20recode%20Tools%20Bokepnya")
+        	os.system("termux-open-url https://wa.me/+6289637763566")
