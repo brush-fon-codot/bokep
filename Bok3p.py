@@ -26,7 +26,7 @@ def expetasi():
 def blacksmoke():
         print c+"[1] "+p+"Youtube"
         print c+"[2] "+p+"Website"
-        print c+"[3] "+p+"Contact"
+        print c+"[3] "+p+"Whatsapp"
         pilih = input("Gak pilih besok mati > ")
         if pilih ==1:
                 os.system('clear')
@@ -63,7 +63,7 @@ print y+"       ``;--'`;   |   `-`"
 print y+"             `'..__.'\n"
 
 print w+"[1].About              "+c+"[3].Lanjut"
-print b+"[2].Exit               "+r+"[4].Recode"
+print b+"[2].Exit               "+r+"[4].Hubungi admin"
 
 pilih = input("pilih > ")
 
@@ -83,6 +83,6 @@ elif pilih == 4:
         print(g+"[2].Unknown")
         oh = input("Recode > ")
         if oh ==2:
-        	os.system("termux-open-url https://wa.me/6289660267608?text=Bang%20Saya%20boleh%20recode%20Tools%20Bokepnya") 
+        	os.system("termux-open-url https://wa.me/+6289660267608?text=Bang%20Saya%20boleh%20recode%20Tools%20Bokepnya") 
 	elif oh ==1:
-        	os.system("termux-open-url https://wa.me/628637763566?text=Bang%20Saya%20boleh%20recode%20Tools%20Bokepnya")
+        	os.system("termux-open-url https://wa.me/+628637763566?text=Bang%20Saya%20boleh%20recode%20Tools%20Bokepnya")
