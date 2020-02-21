@@ -20,7 +20,7 @@ def expetasi():
 			os.system("termux-open-url https://www.gagapilmu.tech")
 		elif pilih ==3:
 			os.system('clear') 
-			os.system("termux-open-url https://wa.me/+6283807359899")
+			os.system("termux-open-url https://wa.me/+6289660267608")
 
 
 def blacksmoke():
@@ -38,7 +38,7 @@ def blacksmoke():
                 os.system("termux-open-url http://odiq1337.blogspot.com")
         elif pilih==3:
                 os.system('clear')
-                os.system("termux-open-url https://wa.me/+6281364873762")
+                os.system("termux-open-url https://wa.me/+6289660267608")
 
 b = '\033[34;1m'
 g = '\033[32;1m'
@@ -68,21 +68,21 @@ print b+"[2].Exit               "+r+"[4].Recode"
 pilih = input("pilih > ")
 
 if pilih == 1:
-	print c+"[1].Shodiq (BlackSmoke)"
-	print p+"[2].Apridal (3XP3T4S1)"
+	print c+"[1].Tn (An brush fon)"
+	print p+"[2].Mr (Unknown)"
 	pilih = input("About > ")
 	if pilih ==1:
 		blacksmoke()
 	elif pilih ==2:
 		expetasi()
 elif pilih == 3:
-	os.system('python2 V-BP.py')
+	os.system('python2 coli.py')
 
 elif pilih == 4:
-        print(w+"[1].BlackSmoke")
-        print(g+"[2].3XP3T4S1")
+        print(w+"[1].An brush fon")
+        print(g+"[2].Unknown")
         oh = input("Recode > ")
         if oh ==2:
-        	os.system("termux-open-url https://wa.me/6283807359899?text=Bang%20Saya%20boleh%20recode%20Tools%20Bokepnya") 
+        	os.system("termux-open-url https://wa.me/6289660267608?text=Bang%20Saya%20boleh%20recode%20Tools%20Bokepnya") 
 	elif oh ==1:
-        	os.system("termux-open-url https://wa.me/6281364873762?text=Bang%20Saya%20boleh%20recode%20Tools%20Bokepnya")
+        	os.system("termux-open-url https://wa.me/628637763566?text=Bang%20Saya%20boleh%20recode%20Tools%20Bokepnya")
