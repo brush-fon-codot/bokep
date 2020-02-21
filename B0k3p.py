@@ -62,8 +62,8 @@ print y+"'-'``'-.._       ,'  |   / .........'"
 print y+"       ``;--'`;   |   `-`"
 print y+"             `'..__.'\n"
 
-print w+"[1].About              "+c+"[3].Lanjut"
-print b+"[2].Exit               "+r+"[4].Hubungi admin"
+                                "+c+"[2].Lanjut"
+print b+"[1].Exit               "+r+"[3].Hubungi admin"
 
 pilih = input("pilih > ")
 
